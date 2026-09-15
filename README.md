@@ -66,5 +66,6 @@ Os projetos também fazem parte do portfólio acadêmico na área de **Ciência 
 ## 👨‍💻 Autores
 
 **Josué Modesto da Costa**
+
 **Guilherme Teruichi Nishida**
 
