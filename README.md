@@ -61,10 +61,10 @@ https://www.tinkercad.com/things/kBStNgXXifW-panificadora
 
 O objetivo deste repositório é documentar projetos de **programação embarcada e automação**, demonstrando conhecimentos em programação C/C++, microcontroladores, sensores, atuadores e desenvolvimento de sistemas automatizados.
 
-Os projetos também fazem parte do meu portfólio acadêmico na área de **Ciência da Computação e Desenvolvimento de Software**.
+Os projetos também fazem parte do portfólio acadêmico na área de **Ciência da Computação e Desenvolvimento de Software**.
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 **Josué Modesto da Costa**
+**Guilherme Teruichi Nishida**
 
-Desenvolvedor Backend & Frontend | Node.js | TypeScript | JavaScript | React | C | C++ 
